@@ -124,10 +124,8 @@ This architecture is applicable to:
 ## 👤 Developer Info
 
 **Name:** Harsh Raj  
-**Mobile:** 8210133696  
 **Email:** harshrajb46@gmail.com  
-**UID:** 12316476  
-**Submitted to:** Dr. Abhishek Bhattacherjee (Assistant Professor)
+
 
 ---
 
